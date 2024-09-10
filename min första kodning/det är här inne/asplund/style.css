@@ -1,0 +1,43 @@
+/* Grundläggande stil för sidan */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+}
+
+/* Stil för huvudrubrik (h1) */
+h1 {
+    color: #2c3e50;
+    text-align: center;
+    font-size: 3em;
+    margin-bottom: 20px;
+}
+
+/* Stil för underrubrik (h2) */
+h2 {
+    color: #c42bb7;
+    text-align: center;
+    font-size: 2em;
+    margin-bottom: 15px;
+}
+
+/* Stil för paragrafen */
+p {
+    font-size: 1.2em;
+    line-height: 1.6;
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: justify;
+}
+
+/* Sätter en bakgrundsfärg på hela sidan och justerar textens centrering */
+body {
+    background-color: #e8f6f3;
+}
+
+/* Lägger till en liten padding runt hela sidan */
+body {
+    padding: 20px;
+}
